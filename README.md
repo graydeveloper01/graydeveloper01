@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/graydeveloper01"><img src="https://api.daily.dev/devcards/1e525ff2b1974ae2ae7a4f454df11bd3.png?r=o0l" width="400" alt="Narasimhan R's Dev Card"/></a>
+
 <!--
 **graydeveloper01/graydeveloper01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
